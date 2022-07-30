@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TopoCompanion</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_add_geodesic">Map</string>
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "652918622390",
+    "firebase_url": "https://topocompanion-default-rtdb.firebaseio.com",
+    "project_id": "topocompanion",
+    "storage_bucket": "topocompanion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652918622390:android:33ac2103355aea2d417e17",
+        "android_client_info": {
+          "package_name": "com.example.topocompanion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652918622390-e5u4k0fgbmdr03ooubmflirq1eef740l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDroU2kKeme3AtlexpOZW527t0gMpNQZMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652918622390-e5u4k0fgbmdr03ooubmflirq1eef740l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
